@@ -1,0 +1,15 @@
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\bin\Debug\netcoreapp3.1\DepilZone.Domain.deps.json
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\bin\Debug\netcoreapp3.1\DepilZone.Domain.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\bin\Debug\netcoreapp3.1\DepilZone.Domain.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\bin\Debug\netcoreapp3.1\DepilZone.Data.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\bin\Debug\netcoreapp3.1\DepilZone.Entidad.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\bin\Debug\netcoreapp3.1\DepilZone.Data.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\bin\Debug\netcoreapp3.1\DepilZone.Entidad.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.csproj.AssemblyReference.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.AssemblyInfoInputs.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.AssemblyInfo.cs
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.csproj.CopyComplete
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Domain\obj\Debug\netcoreapp3.1\DepilZone.Domain.pdb

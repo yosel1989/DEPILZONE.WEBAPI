@@ -1,0 +1,10 @@
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\bin\Debug\netcoreapp3.1\DepilZone.Entidad.deps.json
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\bin\Debug\netcoreapp3.1\DepilZone.Entidad.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\bin\Debug\netcoreapp3.1\DepilZone.Entidad.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\obj\Debug\netcoreapp3.1\DepilZone.Entidad.csproj.AssemblyReference.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\obj\Debug\netcoreapp3.1\DepilZone.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\obj\Debug\netcoreapp3.1\DepilZone.Entidad.AssemblyInfoInputs.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\obj\Debug\netcoreapp3.1\DepilZone.Entidad.AssemblyInfo.cs
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\obj\Debug\netcoreapp3.1\DepilZone.Entidad.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\obj\Debug\netcoreapp3.1\DepilZone.Entidad.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Entidad\obj\Debug\netcoreapp3.1\DepilZone.Entidad.pdb

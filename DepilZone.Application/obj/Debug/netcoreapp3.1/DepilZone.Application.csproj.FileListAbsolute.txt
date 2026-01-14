@@ -1,0 +1,17 @@
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Application.deps.json
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Application.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Application.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Data.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Domain.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Entidad.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Domain.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Data.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\bin\Debug\netcoreapp3.1\DepilZone.Entidad.pdb
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.csproj.AssemblyReference.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.AssemblyInfoInputs.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.AssemblyInfo.cs
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.csproj.CopyComplete
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.dll
+C:\Desarrollo\Depilzone\Repositorio\Backend\DepilZone.Application\obj\Debug\netcoreapp3.1\DepilZone.Application.pdb

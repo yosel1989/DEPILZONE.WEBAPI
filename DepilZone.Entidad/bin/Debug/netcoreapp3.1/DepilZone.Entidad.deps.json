@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DepilZone.Entidad/1.0.0": {
+        "runtime": {
+          "DepilZone.Entidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DepilZone.Entidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

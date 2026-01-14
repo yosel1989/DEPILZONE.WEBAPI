@@ -1,0 +1,36 @@
+﻿using DepilZone.Entidad;
+using DepilZone.Entidad.DTO;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace DepilZone.Data.Interface
+{
+    public interface IPromocionDat
+    {
+        Task<IEnumerable<PromocionGrillaDTO>> Obtener(int activo);
+        Task<IEnumerable<PromocionGrillaDTO>> ObtenerPorServicio(int activo, int idServicio);
+        Task<IEnumerable<PromocionGrillaDTO>> ObtenerPorCategoria(int idCategoria, int activo);
+        Task<IEnumerable<PromocionGrillaDTO>> ObtenerByLikeNombre(string nombre);
+
+        Task<IEnumerable<PromocionVistaDetalleDTO>> ObtenerPromocionVistaDetalle(int idPromocion);
+        Task<IEnumerable<PromocionVistaDatosPlantillaDTO>> ObtenerPromocionVistaPlantilla(int idPromocion);
+        Task<PromocionVistaDatosCondicionadoDTO> ObtenerPromocionVistaCondicionado(int idPromocion);
+
+        Task<Respuesta<PromocionEnt>> Insertar(PromocionEnt model);
+        Task<Respuesta<PromocionEnt>> Modificar(PromocionEnt model);
+        Task<PromocionDTO> ObtenerById(Int32 id);
+
+        Task<List<PromocionRanking>> ObtenerRanking(DateTime fechaInicio, DateTime fechaFin, int idSede, int idPromocion);
+
+        Task<List<PromocionRanking>> ObtenerRankingVenta(DateTime fechaInicio, DateTime fechaFin, int idSede, int idPromocion);
+        Task<List<PromocionRanking>> ObtenerRankingAtendido(DateTime fechaInicio, DateTime fechaFin, int idSede, int idPromocion);
+
+
+        Task<List<PromocionZonaRanking>> ObtenerTop10Zonas(DateTime fechaInicio, DateTime fechaFin, int idSede, int idTipoZona, int idPromocion);
+        Task<List<PromocionZonaRanking>> ObtenerBottom10Zonas(DateTime fechaInicio, DateTime fechaFin, int idSede, int idTipoZona, int idPromocion);
+
+        Task<List<PromocionZonaRanking>> ObtenerZonasRanking(DateTime fechaInicio, DateTime fechaFin, int idSede, int idTipoZona, int idPromocion);
+
+    }
+}
